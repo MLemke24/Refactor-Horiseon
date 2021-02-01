@@ -23,4 +23,4 @@ Ask a question, request a new feature or file an issue at [Stack Overflow!](http
 * Footer update to match mockup
 
 ##  See Our Updates Here
-To see Our Updated Click Here [Horiseon Website!](https://mlemke24.github.io/Refactor-Horiseon/)
+To see Our Updated Horiseon Website Click Here! [Horiseon Website!](https://mlemke24.github.io/Refactor-Horiseon/)
