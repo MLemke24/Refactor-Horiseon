@@ -8,10 +8,6 @@ body {
     background-color: #d9dcd6;
 }
 
-p {
-    font-size: 16px;
-}
-
 /* Header */
 header {
     padding: 20px;
@@ -84,18 +80,25 @@ a {
 
 .what-we-do img {
     max-height: 200px;
+    overflow: auto;
     float: left;
 }
 
 .skills {
     float: left;
-    width: 70%;
-    margin: 0 10px 0 10px;
+    width: 60%;
+    margin: 0 20px 0 20px;
 }
 
 .skills h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+.skills p {
+font-size: 16px;
+font-weight: lighter;
+width: 100%;
 }
 
 
