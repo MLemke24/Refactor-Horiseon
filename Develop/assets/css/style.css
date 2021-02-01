@@ -64,15 +64,6 @@ a {
 
 /* What We Do Section Styling */
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
 
 .content {
     width: 75%;
@@ -93,19 +84,16 @@ a {
 
 .what-we-do img {
     max-height: 200px;
+    float: left;
 }
 
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
+.skills {
+    float: left;
+    width: 70%;
+    margin: 0 10px 0 10px;
 }
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
+.skills h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
