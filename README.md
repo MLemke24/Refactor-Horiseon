@@ -7,7 +7,7 @@ This repository ("Refactor-Horiseon) is where we (company) refactored the Horise
 ![Image of Horiseon Website](https://github.com/MLemke24/Refactor-Horiseon/blob/main/Develop/assets/images/Horiseon%20Readme%20Image.jpg)
 
 ## Feedback, Questions or Concerns
-Ask a question, request a new feature or file an issue at [Stack Overflow!] (https://stackoverflow.com/users/14903519/matthew-lemke?tab=profile)
+Ask a question, request a new feature or file an issue at [Stack Overflow!](https://stackoverflow.com/users/14903519/matthew-lemke?tab=profile)
 
 
 ## Project Updates
@@ -23,4 +23,4 @@ Ask a question, request a new feature or file an issue at [Stack Overflow!] (htt
 *footer update to match mockup
 
 ##  See Our Updates Here
-To see Our Updated Click Here [Horiseon Website!] (https://mlemke24.github.io/Refactor-Horiseon/)
+To see Our Updated Click Here [Horiseon Website!](https://mlemke24.github.io/Refactor-Horiseon/)
