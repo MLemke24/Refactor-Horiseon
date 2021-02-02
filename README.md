@@ -12,6 +12,7 @@ Ask a question, request a new feature or file an issue at [Stack Overflow!](http
 
 ## Project Updates
 
+* Programming languages used: HTML and CSS
 * Hero and Navigation elements updated to work properly
 * Semantic elemetnts replaced Div elements
 * Consolidate div elements
